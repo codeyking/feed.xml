@@ -1,12 +1,11 @@
-# feed.xml
 <? xml version="1.0" ?>
 <rss version="2.0">
 <channel>
-<title>Tblaze</title>
+<title>*YOUR BUILD NAME*</title>
 <description></description>
 <link>http://www.yourweb.com</link>
 <item>
-<title>Tblaze Rocks </title>
+<title>******EDIT THIS TEXT***** </title>
 <description> Enjoy </description>
 <link>http://www.yourweb.com</link>
 </channel>
